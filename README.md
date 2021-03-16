@@ -3,7 +3,7 @@
 IP-Tracer is used to track an ip address. IP-Tracer is developed for Termux and Linux based systems. you can easily retrieve ip address information using IP-Tracer. IP-Tracer use ip-api to track ip address.
 
 
-<img hight="25" src="/WhatsApp Image 2021-03-16 at 12.41.00.jpeg" >
+<img width="200px" src="/WhatsApp Image 2021-03-16 at 12.41.00.jpeg" >
 
 
 ## How to install IP-Tracer ?
